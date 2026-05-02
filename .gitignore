@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Project Specific
+results/
+testing/
+failed_images_report.txt
+
+# Large Model Data
+*.dat
+
+# Video Outputs
+*.mp4
+*.avi
+*.mov
+
+# Distribution
+dist/
+build/
+*.spec
+
+# IDEs
+.vscode/
+.idea/
